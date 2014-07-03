@@ -1,3 +1,3 @@
 #Instaclone - An Instagram Clone
 
-This is the first application that I've building in my quest to Build Something everday to learn how to code and build stuff.
+This is the first application that I'm building in my "Build Something" quest to learn how to code and build stuff.
